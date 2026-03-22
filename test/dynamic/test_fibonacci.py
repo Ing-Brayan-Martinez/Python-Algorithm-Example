@@ -1,4 +1,3 @@
-
 from dynamic.fibonacci import fibonacci
 
 
@@ -6,15 +5,15 @@ def test_fibonacci():
     num = 20
     expected_value = 6765
 
-    print('\n-- Fibonacci --\n')
+    print("\n-- Fibonacci --\n")
 
     result_value = fibonacci(num)
 
-    print(f'Fibonacci of {num} is {result_value}\n')
+    print(f"Fibonacci of {num} is {result_value}\n")
 
     assert expected_value == result_value
 
-    print('Test Passed!')
+    print("Test Passed!")
 
 
 def test_fibonacci_zero():

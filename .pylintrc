@@ -1,0 +1,32 @@
+[MASTER]
+# Python code to execute
+init-hook='import sys; sys.path.append("src")'
+
+[MESSAGES CONTROL]
+# Disable specific warnings (customize as needed)
+disable=
+    C0103,  # Invalid name (snake_case)
+    C0114,  # Missing module docstring
+    C0115,  # Missing class docstring
+    C0116,  # Missing function docstring
+    R0903,  # Too few public methods
+
+[FORMAT]
+# Maximum line length
+max-line-length=100
+
+# Indentation
+indent-string='    '
+
+[BASIC]
+# Naming conventions
+function-rgx=[a-z_][a-z0-9_]{2,50}$
+variable-rgx=[a-z_][a-z0-9_]{2,30}$
+const-rgx=(([A-Z_][A-Z0-9_]*)|(__.*__))$
+
+[DESIGN]
+# Maximum arguments for function
+max-args=5
+
+# Maximum local variables
+max-locals=15

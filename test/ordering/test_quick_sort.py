@@ -1,6 +1,9 @@
 import sys
 import os
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../../src')))
+
+sys.path.insert(
+    0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../../src"))
+)
 
 from ordering.quick_sort import quick_sort
 from util.data import get_data, print_data
@@ -9,21 +12,21 @@ from util.data import get_data, print_data
 def test_quick_sort():
     data = get_data()
 
-    print('\n-- QuickSort --\n')
+    print("\n-- QuickSort --\n")
 
     # before
-    print('Before Sorting: ')
+    print("Before Sorting: ")
     print_data(data)
 
     # sort
-    print('\n')
+    print("\n")
     quick_sort(data)
 
     # after
-    print('After Sorting: ')
+    print("After Sorting: ")
     print_data(data)
 
-    print('\nTest Passed!')
+    print("\nTest Passed!")
 
 
 def test_quick_sort_empty():

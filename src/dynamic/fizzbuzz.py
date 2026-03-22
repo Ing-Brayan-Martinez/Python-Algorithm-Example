@@ -4,10 +4,10 @@ def fizzbuzz(n: int) -> str:
     'Fizz' si es divisible por 3,
     'Buzz' si es divisible por 5,
     o el número como string en caso contrario.
-    
+
     Args:
         n: Número entero a evaluar
-        
+
     Returns:
         String con el resultado FizzBuzz
     """
@@ -20,4 +20,3 @@ def fizzbuzz(n: int) -> str:
             return "Buzz"
         case _:
             return str(n)
-

@@ -1,23 +1,26 @@
 import sys
 import os
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../../src')))
+
+sys.path.insert(
+    0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../../src"))
+)
 
 from dynamic.fizzbuzz import fizzbuzz
 
 
 def test_fizzbuzz():
     num = 60
-    expected_value = 'FizzBuzz'
+    expected_value = "FizzBuzz"
 
-    print('\n-- FizzBuzz --\n')
+    print("\n-- FizzBuzz --\n")
 
     result_value = fizzbuzz(num)
 
-    print(f'FizzBuzz of {num} is {result_value}\n')
+    print(f"FizzBuzz of {num} is {result_value}\n")
 
     assert expected_value == result_value
 
-    print('\nTest Passed!')
+    print("\nTest Passed!")
 
 
 def test_fizzbuzz_divisible_by_3():

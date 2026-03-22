@@ -1,6 +1,9 @@
 import sys
 import os
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../../src')))
+
+sys.path.insert(
+    0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../../src"))
+)
 
 from search.binary_search import binary_search
 
@@ -8,14 +11,14 @@ from search.binary_search import binary_search
 def test_binary_search():
     numbers = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
     print(binary_search(numbers, 13))  # 6
-    print(binary_search(numbers, 8))   # None
+    print(binary_search(numbers, 8))  # None
 
     words = ["apple", "banana", "cherry", "date", "kiwi"]
     print(binary_search(words, "cherry"))  # 2
-    print(binary_search(words, "mango"))   # None
+    print(binary_search(words, "mango"))  # None
 
-    print('')
-    print('Test Passed!')
+    print("")
+    print("Test Passed!")
 
 
 def test_binary_search_found():

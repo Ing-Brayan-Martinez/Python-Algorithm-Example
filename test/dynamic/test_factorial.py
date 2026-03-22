@@ -5,15 +5,15 @@ def test_factorial():
     num = 5
     expected_value = 120
 
-    print('\n-- Factorial --\n')
+    print("\n-- Factorial --\n")
 
     result_value = factorial(num)
 
-    print(f'Factorial of {num} is {result_value}\n')
+    print(f"Factorial of {num} is {result_value}\n")
 
     assert expected_value == result_value
 
-    print('Test Passed!')
+    print("Test Passed!")
 
 
 def test_factorial_zero():

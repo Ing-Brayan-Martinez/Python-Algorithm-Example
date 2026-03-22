@@ -5,7 +5,7 @@ def quick_sort(data: List[int]) -> None:
     """
     Ordena una lista de enteros usando el algoritmo Quick Sort.
     Modifica la lista in-place.
-    
+
     Args:
         data: Lista de enteros a ordenar
     """
@@ -22,12 +22,12 @@ def quick_sort(data: List[int]) -> None:
 def _partition(data: List[int], lower: int, upper: int) -> int:
     """
     Particiona la lista usando el último elemento como pivote.
-    
+
     Args:
         data: Lista a particionar
         lower: Índice inferior
         upper: Índice superior
-        
+
     Returns:
         Índice de la posición final del pivote
     """
@@ -46,7 +46,7 @@ def _partition(data: List[int], lower: int, upper: int) -> int:
 def _internal_quick_sort(data: List[int], lower: int, upper: int) -> None:
     """
     Función recursiva interna para ordenar sub-listas.
-    
+
     Args:
         data: Lista a ordenar
         lower: Índice inferior
@@ -62,7 +62,7 @@ def _internal_quick_sort(data: List[int], lower: int, upper: int) -> None:
 def _swap(first: int, second: int, data: List[int]) -> None:
     """
     Intercambia dos elementos en una lista.
-    
+
     Args:
         first: Índice del primer elemento
         second: Índice del segundo elemento
