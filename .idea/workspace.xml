@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd4bd3b-63f4-4377-9b7f-9659d3528d56" name="Changes" comment="mejorar codigo">
+    <list default="true" id="1dd4bd3b-63f4-4377-9b7f-9659d3528d56" name="Changes" comment="mejorar README.md">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,11 +192,20 @@
       <option name="project" value="LOCAL" />
       <updated>1774211381402</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mejorar README.md">
+      <option name="closed" value="true" />
+      <created>1774212546808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774212546808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mejorar codigo" />
-    <option name="LAST_COMMIT_MESSAGE" value="mejorar codigo" />
+    <MESSAGE value="mejorar README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="mejorar README.md" />
   </component>
 </project>

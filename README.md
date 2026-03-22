@@ -1,7 +1,7 @@
 <h1 align="center">Aprendiendo el Lenguaje Python</h1>
 
 <h1 align="center">
-  <img src="https://github.com/Ing-Brayan-Martinez/Dart-Algorithm-Example/blob/master/.github/assest/Dart.png" alt="Dart" width="800"/>
+  <img src="https://github.com/Ing-Brayan-Martinez/Python-Algorithm-Example/blob/main/.github/assest/8454f12b6d2e69fcf172ea64b78b3a56.jpg" alt="Python" width="800"/>
 </h1>
 
 [![Dart Continuous Integration](https://github.com/Ing-Brayan-Martinez/Dart-Algorithm-Example/actions/workflows/dart.yml/badge.svg)](https://github.com/Ing-Brayan-Martinez/Dart-Algorithm-Example/actions/workflows/dart.yml)
