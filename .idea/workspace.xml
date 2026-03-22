@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dd4bd3b-63f4-4377-9b7f-9659d3528d56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dynamic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamic/fizzbuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ordering/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ordering/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ordering/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ordering/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-Algorithm-Example.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ing-Brayan-Martinez"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ing-Brayan-Martinez/Python-Algorithm-Example.git",
+    "accountId": "d56a1bb6-5568-4e10-b66e-1aec8f6b9f9a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3BJXru8MEDEzZzRA9RyAOAn1NMD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for test.dynamic.factorial_test.test_factorial.executor": "Run",
+    "Python tests.Python tests for test.dynamic.test_factorial.test_factorial.executor": "Run",
+    "Python tests.Python tests for test.dynamic.test_factorial.test_factorial_zero.executor": "Run",
+    "Python tests.Python tests for test.ordering.test_selection_sort.test_selection_sort.executor": "Run",
+    "Python tests.Python tests for test.search.test_binary_search.test_binary_search.executor": "Run",
+    "Python tests.Python tests in factorial_test.py.executor": "Run",
+    "Python tests.Python tests in test_factorial.py.executor": "Run",
+    "Python tests.Python tests in test_fibonacci.py.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/brayanmart/Descargas/Proyectos/01-Ing-Brayan-Martinez/Language/Python-Algorithm-Example/src/search",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/search" />
+      <recent name="$PROJECT_DIR$/src/ordering" />
+      <recent name="$PROJECT_DIR$/src/dynamic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ordering" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test.search.test_binary_search.test_binary_search">
+    <configuration name="Python tests for test.dynamic.test_factorial.test_factorial" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm-Example" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.dynamic.test_factorial.test_factorial&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.ordering.test_selection_sort.test_selection_sort" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm-Example" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.ordering.test_selection_sort.test_selection_sort&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.search.test_binary_search.test_binary_search" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm-Example" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.search.test_binary_search.test_binary_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_factorial.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm-Example" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/dynamic/test_factorial.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_fibonacci.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm-Example" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/dynamic/test_fibonacci.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test.search.test_binary_search.test_binary_search" />
+        <item itemvalue="Python tests.Python tests for test.ordering.test_selection_sort.test_selection_sort" />
+        <item itemvalue="Python tests.Python tests for test.dynamic.test_factorial.test_factorial" />
+        <item itemvalue="Python tests.Python tests in test_factorial.py" />
+        <item itemvalue="Python tests.Python tests in test_fibonacci.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dd4bd3b-63f4-4377-9b7f-9659d3528d56" name="Changes" comment="" />
+      <created>1774208348244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774208348244</updated>
+    </task>
+    <servers />
+  </component>
+</project>
